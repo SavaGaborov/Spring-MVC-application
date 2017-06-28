@@ -24,7 +24,7 @@
         <ul id="menu">
           <li class="selected"><a href="Proba.html">About us</a></li>
           <li><a href="Probaexamples.html">Music</a></li>
-          <li><a href="Probapage.html">Sport</a></li>
+          <li><a href="sport.html">Sport</a></li>
           <li><a href="Probaanother_page.html">Arts/Theater</a></li>
           <li><a href="ProbaContact.html">Familiy</a></li>
 		  <li><a href="Probaanother_page.html">VIP</a></li>
@@ -58,9 +58,9 @@
         <p>If an event is delayed or canceled, we will return some amount of money, between 50% to 95% value of your ticket.<a href="#">Read more</a></p>
         <h3>Useful Links</h3>
         <ul>
-          <li><a href="BestMusicfesitvals">Best music festivals</a></li>
-          <li><a href="BestSportEvents">Best sport events</a></li>
-          <li><a href="BestArtEvents">Best art events </a></li>
+          <li><a href="https://www.tripping.com/explore/7-best-and-biggest-music-festivals-in-the-world?cam=477&gclid=CLaP4JGs4dQCFQa2GAod_p8PYA">Best music festivals</a></li>
+          <li><a href="https://www.pledgesports.org/2017/04/these-are-the-5-biggest-sporting-events-in-the-world/">Best sport events</a></li>
+          <li><a href="https://www.thebalance.com/top-international-fine-art-fairs-1295289">Best art events </a></li>
         </ul>
       </div>
       <div id="content">
@@ -78,7 +78,7 @@
       </div>
     </div>
     <div id="footer">
-      Copyright &copy; 2017 Sava Gaborov. All Rights Reserved | <a href="http://validator.w3.org/check?uri=referer">Privacy Policy</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">About us</a> | <a href="http://www.html5webtemplates.co.uk">Contact us</a>
+      Copyright &copy; 2017 Sava Gaborov. All Rights Reserved | <a href="http://validator.w3.org/check?uri=referer">Privacy Policy</a> | <a href="aboutus.html">About us</a> | <a href="contactus.html">Contact us</a>
     </div>
   </div>
 </body>

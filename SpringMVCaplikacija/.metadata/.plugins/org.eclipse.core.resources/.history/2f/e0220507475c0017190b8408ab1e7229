@@ -1,0 +1,70 @@
+	<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Sport</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="resources/css/contactstil.css" title="style" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <h1><a href="index.html">your<span class="logo_colour">ticket</span>store</a></h1>
+          <h2>Collect moments, not things.</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <li><a href="aboutus.html">About us</a></li>
+          <li><a href="Probaexamples.html">Music</a></li>
+          <li class="selected"><a href="sport.html">Sport</a></li>
+          <li><a href="Probaanother_page.html">Arts/Theater</a></li>
+          <li><a href="ProbaContact.html">Familiy</a></li>
+		  <li><a href="Probaanother_page.html">VIP</a></li>
+          <li><a href="ProbaContact.html" >Other</a></li>
+          <li><a href="contactus.html">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <h3>News</h3>
+        <h4>Last minute offers</h4>
+        <h5>May 22th, 2017</h5>
+        <p>Take a look for the new last minute offers. Grab the last few remaining tickets for some entertainment and enjoy.<a href="#">Read more</a></p>
+        <p></p>
+        <h4>Cash back</h4>
+        <h5>May 27th, 2017</h5>
+        <p>If an event is delayed or canceled, we will return some amount of money, between 50% to 95% value of your ticket.<a href="#">Read more</a></p>
+        <h3>Useful Links</h3>
+        <ul>
+          <li><a href="https://www.tripping.com/explore/7-best-and-biggest-music-festivals-in-the-world?cam=477&gclid=CLaP4JGs4dQCFQa2GAod_p8PYA">Best music festivals</a></li>
+          <li><a href="https://www.pledgesports.org/2017/04/these-are-the-5-biggest-sporting-events-in-the-world/">Best sport events</a></li>
+          <li><a href="https://www.thebalance.com/top-international-fine-art-fairs-1295289">Best art events </a></li>
+        </ul>
+        
+      </div>
+      <div id="content">
+        <h1>${message}</h1>
+        <p>Here is a list of sports events that we suggest You to visit:</p>
+		
+        <form action="#" method="post">
+          <div class="form_settings">
+            <p><textarea class="contact textarea" rows="20" cols="50" name="your_enquiry"></textarea></p>
+          </div>
+        </form>
+        <p><br /><br />Do not hesitate to contact us about some specific offers, maybe it is not published yet.</p>
+      </div>
+    </div>
+    <div id="footer">
+      Copyright &copy; 2017 Sava Gaborov. All Rights Reserved | <a href="http://validator.w3.org/check?uri=referer">Privacy Policy</a> | <a href="aboutus.html">About us</a> | <a href="contactus.html">Contact us</a>
+    </div>
+  </div>
+</body>
+</html>

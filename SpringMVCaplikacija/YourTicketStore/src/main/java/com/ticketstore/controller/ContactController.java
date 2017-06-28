@@ -11,6 +11,6 @@ public class ContactController {
 	public ModelAndView gettingTheContactView() {
 		
 	String message = "Contact us"; 
-	return new ModelAndView("contact", "message", message); }
+	return new ModelAndView("contactus", "message", message); }
 
 }
